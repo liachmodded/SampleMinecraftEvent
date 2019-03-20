@@ -1,0 +1,11 @@
+{
+  "__comment": "No display, custom trigger",
+  "criteria": {
+    "command": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "liachmodded:event/fire/sample"
+  }
+}

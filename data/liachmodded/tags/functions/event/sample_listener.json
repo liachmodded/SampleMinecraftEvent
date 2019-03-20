@@ -1,0 +1,6 @@
+{
+  "__comment": "Listeners go here.",
+  "values": [
+    "liachmodded:event/handler/sample_message"
+  ]
+}
